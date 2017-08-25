@@ -1,8 +1,11 @@
 # Exact Subtitle and Video File Rename Script in 1-Click -->
 
-![SubRenamer and on the right is COMMAND $PATH to Script /usr/bin/subRename.sh](http://imgur.com/a/p4nVQ)
 
-![Some of my Custom Actions in Thunar](http://imgur.com/U96nZHWg)
+![Some of my Custom Actions in Thunar](http://i.imgur.com/4UmwPCn.png)
+
+
+![SubRenamer and on the right is COMMAND $PATH to Script /usr/bin/subRename.sh](http://i.imgur.com/U96nZHW.png)
+
 
 ![Custom Action Option in Thunar - Apperiance Condidion aka. FileTypes and Extensions supported currently](http://i.imgur.com/Tq8bh6r.png)
 
