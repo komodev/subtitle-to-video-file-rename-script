@@ -1,4 +1,4 @@
-# Exact Subtitle and Video File Rename Script in 1-Click -->
+# Subtitle and Video File Rename **`#!/bin/bash`** Script in 1-Click -->
 
 
 
