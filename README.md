@@ -1,8 +1,9 @@
 # Subtitle and Video Files Renaming Script  -->
-made for Thunar(Custom Action - Bash Script) & XFCE Graphic Environment.
+
+## made for Thunar(Custom Action - Bash Script) & XFCE Graphic Environment.
 
 
-## **HOWTO USE: = Linux Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS etc. and XFCE as Graphic Environment**
+### **HOWTO USE AND WHERE IT WORKS: Linux Systems who are using XFCE Graphic Environment(tested) Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS, Cent OS etc.**
 
 
 1. Just copy the file into your **usr/bin/** folder.
@@ -13,4 +14,4 @@ made for Thunar(Custom Action - Bash Script) & XFCE Graphic Environment.
 for example I saved mine in usr/bin/subrename.sh" **
 
 
-NOTE: Tested on few Linux distros based & derived from Debian, so Ubuntu, xUbuntu, elementary, Debian itself, Mint and few more are tested, running on XFCE of course, different Distros using XFCE should be also friendly but some Linux systems are not like others and let me know if you stuck at any. I did not tried it just in Thunar File Manager working on Unity or GNOME Shell for example and not sure if that's even possible but if you bump on a chance, give it a try and pls send over your feedback
+### NOTE: Tested on few Linux distros based & derived from Debian, so Ubuntu, xUbuntu, elementary, Debian itself, Mint and few more are tested, running on XFCE of course, different Distros using XFCE should be also friendly but some Linux systems are not like others and let me know if you stuck at any. I did not tried it just in Thunar File Manager working on Unity or GNOME Shell for example and not sure if that's even possible but if you bump on a chance, give it a try and pls send over your feedback
