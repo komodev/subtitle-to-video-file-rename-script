@@ -1,7 +1,10 @@
 # Exact Subtitle and Video File Rename Script in 1-Click -->
 
-![Custom Action Option in Thunar](http://i.imgur.com/Tq8bh6r.png)
+![SubRenamer and on the right is COMMAND $PATH to Script /usr/bin/subRename.sh](http://imgur.com/a/p4nVQ)
 
+![Some of my Custom Actions in Thunar](http://imgur.com/U96nZHWg)
+
+![Custom Action Option in Thunar - Apperiance Condidion aka. FileTypes and Extensions supported currently](http://i.imgur.com/Tq8bh6r.png)
 
 
 ### Bash Script written for Thunar(Custom Action Option) & XFCE Graphic Environment, place it inside your `/usr/bin/` user folder and call it from 'Custom Actions' *Command* `Value field` from anywhere on your system(tested).
