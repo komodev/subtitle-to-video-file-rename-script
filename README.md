@@ -1,5 +1,5 @@
 # Exact Subtitle and Video File Rename Script in 1-Click -->
-
+[Imgur](http://i.imgur.com/Tq8bh6r.png)
 
 
 ### Bash Script written for Thunar(Custom Action Option) & XFCE Graphic Environment, place it inside your `/usr/bin/` user folder and call it from 'Custom Actions' *Command* `Value field` from anywhere on your system(tested).
