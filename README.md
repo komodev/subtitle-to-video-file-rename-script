@@ -1,6 +1,6 @@
 # Subtitle and Video Files Renaming Script  -->
 
-## made for Thunar(Custom Action - Bash Script) & XFCE Graphic Environment.
+## For Thunar(Custom Action Option) & XFCE Graphic Environment(tested).
 
 
 ### **HOWTO USE AND WHERE IT WORKS: Linux Systems who are using XFCE Graphic Environment(tested) Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS, Cent OS etc.**
