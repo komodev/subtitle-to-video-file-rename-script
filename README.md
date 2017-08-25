@@ -8,10 +8,12 @@
 ### Example of my setup and some explanations with Tips & Tricks as asked from my friends to include here.
 
 
-#### HOWTO USE AND WHERE IT WORKS:
+### HOWTO USE AND WHERE IT WORKS:
+
 **Linux Systems who are using XFCE Graphic Environment(tested) Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS, Cent OS etc.**
 
-## Easy Steps to follow:
+
+### Easy Steps to follow:
 
 1. Just copy the file into your `/usr/bin/**myScriptForSubsRename.sh**` folder.
 2. Go to Thunar aka. Default XFCE File Manager.
