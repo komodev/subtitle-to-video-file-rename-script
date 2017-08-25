@@ -1,8 +1,10 @@
-# Subtitle and Video Files Rename Script  -->
+# Subtitle and Video Files Renaming Script  -->
 made for Thunar(Custom Action - Bash Script) & XFCE Graphic Environment.
 
 
 ## **HOWTO USE: = Linux Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS etc. and XFCE as Graphic Environment**
+
+
 1. Just copy the file into your **usr/bin/** folder.
 2. Go to Thunar aka. Default XFCE File Manager.
 3. Pick **"Custom Action"** menu & choose go **ADD New action**
