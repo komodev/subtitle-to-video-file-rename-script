@@ -1,8 +1,11 @@
-# Exact Subtitle and Video Files Renaming Script in 1-Click  -->
+# Exact Subtitle and Video File Rename Script in 1-Click -->
 
-## Bash Script written For Thunar(Custom Action Option) & XFCE Graphic Environment, place it in your `/usr/bin/` and call it from 'Custom Option' *Command* Value field(tested).
 
-### Example of my setup is as following:
+## Bash Script written for Thunar(Custom Action Option) & XFCE Graphic Environment, place it inside your `/usr/bin/` user folder and call it from 'Custom Actions' *Command* `Value field` from anywhere on your system(tested).
+
+
+## Example of my setup and some explanations with Tips & Tricks as asked from my friends to include here.
+
 
 ### **HOWTO USE AND WHERE IT WORKS: Linux Systems who are using XFCE Graphic Environment(tested) Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS, Cent OS etc.**
 
