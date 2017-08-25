@@ -1,15 +1,17 @@
 # Exact Subtitle and Video File Rename Script in 1-Click -->
 
 
-## Bash Script written for Thunar(Custom Action Option) & XFCE Graphic Environment, place it inside your `/usr/bin/` user folder and call it from 'Custom Actions' *Command* `Value field` from anywhere on your system(tested).
+
+### Bash Script written for Thunar(Custom Action Option) & XFCE Graphic Environment, place it inside your `/usr/bin/` user folder and call it from 'Custom Actions' *Command* `Value field` from anywhere on your system(tested).
 
 
-## Example of my setup and some explanations with Tips & Tricks as asked from my friends to include here.
+### Example of my setup and some explanations with Tips & Tricks as asked from my friends to include here.
 
 
-### HOWTO USE AND WHERE IT WORKS:
+#### HOWTO USE AND WHERE IT WORKS:
 **Linux Systems who are using XFCE Graphic Environment(tested) Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS, Cent OS etc.**
 
+## Easy Steps to follow:
 
 1. Just copy the file into your `/usr/bin/**myScriptForSubsRename.sh**` folder.
 2. Go to Thunar aka. Default XFCE File Manager.
@@ -19,7 +21,7 @@
 for example I saved mine in `/usr/bin/subrenamerScript.sh`.
 
 
-## NOTE: Tested on few Linux distros based & derived from Debian, so Ubuntu, xUbuntu, elementary, Debian itself, Mint and few more are tested, running on XFCE of course, different Distros using XFCE should be also friendly but some Linux systems are not like others and let me know if you stuck at any. I did not tried it just in Thunar File Manager working on Unity or GNOME Shell for example and not sure if that's even possible but if you bump on a chance, give it a try and pls send over your feedback.
+### NOTE: Tested on few Linux distros based & derived from Debian, so Ubuntu, xUbuntu, elementary, Debian itself, Mint and few more are tested, running on XFCE of course, different Distros using XFCE should be also friendly but some Linux systems are not like others and let me know if you stuck at any. I did not tried it just in Thunar File Manager working on Unity or GNOME Shell for example and not sure if that's even possible but if you bump on a chance, give it a try and pls send over your feedback.
 
 
 ### If you need more extensions for both VIDEO and SUBTITLE fileFormats, feel free to open an Issue or ask for
