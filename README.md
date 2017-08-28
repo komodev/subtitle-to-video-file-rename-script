@@ -3,7 +3,7 @@
 
 
 
-### **`#!/bin/bash`** Script written for Thunar(Custom Action Option) & XFCE Graphic Environment, place it inside your `/usr/bin/` user folder and call it from 'Custom Actions' *Command* `Value field` from anywhere on your system(tested).
+### **`#!/bin/bash`** Script written for Thunar(Custom Action Option) & XFCE Desktop Environment, place it inside your `/usr/bin/` user folder and call it from 'Custom Actions' *Command* `Value field` from anywhere on your system(tested).
 
 ![Some of my Custom Actions in Thunar](http://i.imgur.com/4UmwPCn.png)
 
@@ -13,7 +13,7 @@
 
 ### HOWTO USE AND WHERE IT WORKS:
 
-**Linux Systems who are using XFCE Graphic Environment(tested) Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS, Cent OS etc.**
+**Linux Systems who are using XFCE Desktop Environment(tested) Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS, Cent OS etc.**
 
 
 ![SubRenamer and on the right is COMMAND $PATH to Script /usr/bin/subRename.sh](http://i.imgur.com/U96nZHW.png)
