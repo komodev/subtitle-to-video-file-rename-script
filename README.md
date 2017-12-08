@@ -11,9 +11,9 @@
 ### Example of my setup and some explanations with Tips & Tricks as asked from my friends to include here.
 
 
-### HOWTO USE AND WHERE IT WORKS:
+### PREREQUISITES,HOW TO USE AND HOW IT WORKS:
 
-**Linux Systems who are using XFCE Desktop Environment(tested) Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS, Cent OS etc.**
+**Linux Systems using XFCE Desktop Environment(tested) Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS, Cent OS etc.**
 
 
 ![SubRenamer and on the right is COMMAND $PATH to Script /usr/bin/subRename.sh](http://i.imgur.com/U96nZHW.png)
