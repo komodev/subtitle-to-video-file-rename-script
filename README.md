@@ -1,4 +1,4 @@
-# Subtitle and Video File Rename **`#!/bin/bash`** Script in 1-Click -->
+# Subtitle and Movie File Rename **`#!/bin/bash`** Script in 1-Click -->
 
 
 
@@ -8,10 +8,10 @@
 ![Some of my Custom Actions in Thunar](http://i.imgur.com/4UmwPCn.png)
 
 
-### Example of my setup and some explanations with Tips & Tricks as asked from my friends to include here.
+### Example of my setup and some explanations with Tips & Tricks as some of you friends asked. :)
 
 
-### PREREQUISITES,HOW TO USE AND HOW IT WORKS:
+### PREREQUISITES & HOW TO USE IT:
 
 **Linux Systems using XFCE Desktop Environment(tested) Ubuntu, kUbuntu, xUbuntu(my choice), Mint, Debian(the great dad of all), Elementary OS, Cent OS etc.**
 
